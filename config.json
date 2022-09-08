@@ -1,0 +1,4 @@
+{
+    "mysql"   : ["localhost","root","","login"],
+    "_comment": ["server" ,"user" ,"password","database"]
+}
